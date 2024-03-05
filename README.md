@@ -6,4 +6,4 @@ Python
 
 import cv2
 import mediapipe as mp
-from google.protobuf.json_format import MessageToDict
+from google.protobuf.json_format import Message to Ditect
